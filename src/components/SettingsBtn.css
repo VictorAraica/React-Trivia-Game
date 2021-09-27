@@ -1,0 +1,9 @@
+.settingsBtn {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    cursor: pointer;
+} 
